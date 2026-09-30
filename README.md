@@ -1,8 +1,8 @@
-# Workspace
+# Workspace 
 
 [![CI](https://github.com/yavuzibr/workspace/actions/workflows/ci.yml/badge.svg)](https://github.com/yavuzibr/workspace/actions/workflows/ci.yml)
 
-A desktop app to chat with a **GitHub repository**, a **YouTube video**, or a **Hugging Face model/dataset** — without downloading, cloning, or watching anything. Workspace fetches only what's needed on demand and lets an LLM answer your questions about it.
+A desktop app to chat with a **GitHub repository**, a **YouTube video**, or a **Hugging Face model/dataset** — without downloading, cloning, or watching anything. Workspace fetches only what's needed on demand and lets an LLM answer your questions about it. My first vibecoded project.
 
 <p align="center">
   <img src="resources/screenshots/repo-chat.png" alt="Chatting with a GitHub repo in Workspace" width="800"><br>
