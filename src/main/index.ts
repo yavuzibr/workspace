@@ -24,7 +24,6 @@ function createWindow(): void {
     mainWindow.show()
   })
 
-
   mainWindow.webContents.setWindowOpenHandler((details) => {
     if (details.url.startsWith('http://') || details.url.startsWith('https://')) {
       shell.openExternal(details.url)
