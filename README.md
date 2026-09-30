@@ -1,6 +1,6 @@
 # Workspace
 
-[![CI](https://github.com/yavuzibr98/workspace/actions/workflows/ci.yml/badge.svg)](https://github.com/yavuzibr98/workspace/actions/workflows/ci.yml)
+[![CI](https://github.com/yavuzibr/workspace/actions/workflows/ci.yml/badge.svg)](https://github.com/yavuzibr/workspace/actions/workflows/ci.yml)
 
 A desktop app to chat with a **GitHub repository**, a **YouTube video**, or a **Hugging Face model/dataset** — without downloading, cloning, or watching anything. Workspace fetches only what's needed on demand and lets an LLM answer your questions about it.
 
@@ -15,7 +15,7 @@ A desktop app to chat with a **GitHub repository**, a **YouTube video**, or a **
 
 ## Download (Windows)
 
-No install, no build needed — grab the portable `.exe` from the [Releases page](https://github.com/yavuzibr98/workspace/releases/latest) and run it directly. Nothing is installed on your system; it's a single portable executable.
+No install, no build needed — grab the portable `.exe` from the [Releases page](https://github.com/yavuzibr/workspace/releases/latest) and run it directly. Nothing is installed on your system; it's a single portable executable.
 
 ## Running from source
 

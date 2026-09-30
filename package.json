@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yavuzibr98/workspace.git"
+    "url": "git+https://github.com/yavuzibr/workspace.git"
   },
   "bugs": {
-    "url": "https://github.com/yavuzibr98/workspace/issues"
+    "url": "https://github.com/yavuzibr/workspace/issues"
   },
-  "homepage": "https://github.com/yavuzibr98/workspace#readme",
+  "homepage": "https://github.com/yavuzibr/workspace#readme",
   "keywords": [
     "electron",
     "llm",
@@ -38,7 +38,7 @@
     "start": "electron-vite preview"
   },
   "build": {
-    "appId": "io.github.yavuzibr98.workspace",
+    "appId": "io.github.yavuzibr.workspace",
     "productName": "Workspace",
     "asar": true,
     "asarUnpack": [
